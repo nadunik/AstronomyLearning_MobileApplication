@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "128461901982",
+    "project_id": "astroapp-ce344",
+    "storage_bucket": "astroapp-ce344.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128461901982:android:68b896d9807052dbc32b8f",
+        "android_client_info": {
+          "package_name": "com.example.astronomy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128461901982-359o7o18obmcrfd6ls42ihvn09t5ondl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ5yYun14xeVMVIlS5f8HcwkfbHQcj-9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128461901982-359o7o18obmcrfd6ls42ihvn09t5ondl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "128461901982-hoduc72f75029gac10nf7g8vj84pqc8u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.astronomyApplication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128461901982:android:657de8441a3dca97c32b8f",
+        "android_client_info": {
+          "package_name": "com.example.astronomy_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128461901982-kp3vlq2lkfg6ir2tql026f33q6kotka0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.astronomy_app1",
+            "certificate_hash": "aed52f1b4e2a157f2012b8e62e4b556b233bb194"
+          }
+        },
+        {
+          "client_id": "128461901982-359o7o18obmcrfd6ls42ihvn09t5ondl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ5yYun14xeVMVIlS5f8HcwkfbHQcj-9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128461901982-359o7o18obmcrfd6ls42ihvn09t5ondl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "128461901982-hoduc72f75029gac10nf7g8vj84pqc8u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.astronomyApplication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128461901982:android:305bfaae3ea79413c32b8f",
+        "android_client_info": {
+          "package_name": "com.example.astronomy_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128461901982-rjobhiq1so8g9ia62pbmh82ck44p3vbr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.astronomy_application",
+            "certificate_hash": "aed52f1b4e2a157f2012b8e62e4b556b233bb194"
+          }
+        },
+        {
+          "client_id": "128461901982-359o7o18obmcrfd6ls42ihvn09t5ondl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ5yYun14xeVMVIlS5f8HcwkfbHQcj-9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128461901982-359o7o18obmcrfd6ls42ihvn09t5ondl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "128461901982-hoduc72f75029gac10nf7g8vj84pqc8u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.astronomyApplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "128461901982",
+    "project_id": "astroapp-ce344",
+    "storage_bucket": "astroapp-ce344.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128461901982:android:68b896d9807052dbc32b8f",
+        "android_client_info": {
+          "package_name": "com.example.astronomy_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ5yYun14xeVMVIlS5f8HcwkfbHQcj-9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128461901982:android:657de8441a3dca97c32b8f",
+        "android_client_info": {
+          "package_name": "com.example.astronomy_app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ5yYun14xeVMVIlS5f8HcwkfbHQcj-9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128461901982:android:305bfaae3ea79413c32b8f",
+        "android_client_info": {
+          "package_name": "com.example.astronomy_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ5yYun14xeVMVIlS5f8HcwkfbHQcj-9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+} 
