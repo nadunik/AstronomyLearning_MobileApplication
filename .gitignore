@@ -43,3 +43,14 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+linux/
+windows/
+macos/
+
+*.mp4
+*.mov
+*.zip
+*.7z
+
+images/universe (1).gif
